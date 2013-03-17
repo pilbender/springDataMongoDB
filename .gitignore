@@ -1,1 +1,8 @@
 /target/
+/.idea/
+/out/
+/springDataMongoDB.iml
+/springDataMongoDB.ipr
+/springDataMongoDB.iws
+/src/main/main.iml
+/src/test/test.iml
